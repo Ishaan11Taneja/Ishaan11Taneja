@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishaan%20Taneja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-taneja-it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishaan%20Taneja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishaan11Taneja)
 [![Email](https://img.shields.io/badge/Email-ishaan11taneja%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaan11taneja@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Mysuru%2C%20India-2E86C1?style=for-the-badge)](https://linkedin.com/in/Ishaan11Taneja)
 [![Open to Work](https://img.shields.io/badge/🚀-Open%20to%20Work-brightgreen?style=for-the-badge)](mailto:ishaan11taneja@gmail.com)
@@ -151,14 +151,20 @@ ishaan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishaan11Taneja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan11Taneja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ishaan11Taneja&theme=tokyonight&no-frame=true&row=1&column=6)
-
 </div>
+
+> 💡 **Full stats will populate once projects are pushed to GitHub!**
+
+| Metric | Value |
+|--------|-------|
+| 🤖 AI Projects Deployed | 3 |
+| 🎯 Best Accuracy | 93% — Speech Emotion CNN |
+| 🖼️ Training Images | 19,500+ |
+| 📊 Data Points Analyzed | 5,000+ |
+| 🏅 Certifications | 4 |
+| 📍 Currently | Infosys · Mysuru |
 
 ---
 
