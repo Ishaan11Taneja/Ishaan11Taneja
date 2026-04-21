@@ -57,7 +57,7 @@ ishaan = {
 
 ## 🩺 SkinCare AI — Skin Disease Classifier
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4NjlkMW85MzZkNHVuMXI1dDR3ZnF0aGV4ZnlxZWF6ZnVxc3FrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 ```
 📥  Input    →  Skin image (any device camera)
@@ -76,7 +76,7 @@ ishaan = {
 
 ## 🏏 IPL Score Predictor
 
-<img align="left" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhqcmtua2Z4eTFhajVzMmxxMW41bG53N3B6MGxwaXYxanUQBNOrnQlzo3ftqm0Jj5Sf9zEHlPApapd-rWsAHREzkweiTw/3o7TKMt1VVNkHV2PaE/giphy.gif" />
+<img align="left" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```
 📥  Input    →  Match conditions (venue, teams, overs, weather)
@@ -95,7 +95,7 @@ ishaan = {
 
 ## 🎙️ Speech Emotion Recognition
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGo0NjhvOHkxdnZybm93aTBtOHBiam55djkyNW96ZG14cXRibWZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
 ```
 📥  Input    →  Raw audio clip (WAV/MP3)
@@ -156,7 +156,7 @@ ishaan = {
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishaan11Taneja&theme=tokyonight&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ishaan11Taneja&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
