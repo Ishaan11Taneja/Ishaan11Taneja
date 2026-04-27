@@ -172,7 +172,7 @@ ishaan = {
 
 ```
 🏢  Systems Engineer @ Infosys (MFADM Unit)          2025 – Present
-     ↳ Manufacturing ADM · Mysuru · Enterprise-scale engineering
+     ↳ Manufacturing ADM · Pune · Enterprise-scale engineering
      ↳ Actively switching into DS/AI — internal + external
 
 📊  Freelance Data Analyst @ Varada Agriculture        Jun–Jul 2025
