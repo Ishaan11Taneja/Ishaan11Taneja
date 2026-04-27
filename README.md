@@ -13,7 +13,7 @@
 <!-- Profile badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishaan%20Taneja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishaan11Taneja)
 [![Email](https://img.shields.io/badge/Email-ishaan11taneja%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaan11taneja@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Mysuru%2C%20India-2E86C1?style=for-the-badge)](https://linkedin.com/in/Ishaan11Taneja)
+[![Location](https://img.shields.io/badge/📍-Pune%2C%20India-2E86C1?style=for-the-badge)](https://linkedin.com/in/Ishaan11Taneja)
 [![Open to Work](https://img.shields.io/badge/🚀-Open%20to%20Work-brightgreen?style=for-the-badge)](mailto:ishaan11taneja@gmail.com)
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 ```python
 ishaan = {
-    "currently"   : "Systems Engineer @ Infosys (MFADM) · Mysuru",
+    "currently"   : "Systems Engineer @ Infosys (MFADM) · Pune",
     "transitioning_to": ["Data Science", "ML Engineering", "AI Engineering", "Business Analysis"],
     "superpower"  : "Building AI that ships — not just notebooks that sit",
     "fun_fact"    : "My CNN outperformed ResNet50. ResNet50 is not happy about it.",
